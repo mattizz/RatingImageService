@@ -1,0 +1,96 @@
+html{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    color: white;
+    font-family: 'Atma', cursive;
+}
+
+
+body{
+    width: 90%;
+    margin: 0.5% auto;
+    background: black;
+}
+
+#content{
+    width: 60%;
+    margin: 1% auto;
+    text-align: center; 
+}
+
+td{
+    width: auto;
+}
+
+img{
+    width: 95%;
+    border: 2px solid white;
+}
+
+.btn{
+    width: 30px;
+    height: 30px;
+    border-radius: 50px;
+    background: white;
+    color:black;
+    font-size: 20px;
+    border: 2px solid white;
+    outline: none;
+}
+
+.btn:active{
+    box-shadow: 0 0 10px white;
+}
+
+.btn:hover{
+    cursor: pointer;
+    color: white;
+    background: black;
+    border: 3px solid white;
+}
+
+
+
+#login_panel{
+    display: none;
+    color: white;
+}
+
+label{
+    margin: 2.5%;
+}
+
+#rate{
+    text-align: center;
+    color: white;
+    width: 100%;
+}
+
+label:hover{
+   cursor: pointer;
+}
+
+.f_btn{
+    float: right;
+    width: 150px;
+    font-family: 'Atma', cursive;
+    background: grey;
+    height: 30px;
+    border: 2px solid white;
+    border-radius: 150px 0 150px 0;
+    color: white;
+}
+
+.sf_btn{
+    width: 40%;
+    color:white;
+    background: grey;
+    height: 30px;
+    border: 2px solid white;
+    border-radius: 150px 0 150px 0;
+}
+
+#t_rate{
+    margin-left: 5%;
+}

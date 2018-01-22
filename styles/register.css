@@ -1,0 +1,73 @@
+html{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    color: white;
+    font-family: 'Atma', cursive;
+}
+
+body{
+    width: 90%;
+    margin: 0.5% auto;
+    background: black;
+}
+
+table{
+    width: 100%;
+}
+
+td{
+    vertical-align: text-toptop;
+    width: 50%;
+}
+
+td label{
+    font-size: 20px;
+    text-align: left;
+    display: inline-block;
+    width: 25%;
+}
+
+form{
+    text-align: center;
+    width: 100%;
+}
+
+nav{
+    margin: 0px;
+    overflow: hidden;
+}
+a{
+    margin: 0px;
+    float: right;
+}
+
+#submitBTN{
+    background: grey;
+    width: 20%;
+    height: 30px;
+    border: 2px solid white;
+    border-radius: 150px 0 150px 0;
+    font-family: 'Atma', cursive;
+}
+
+.g-recaptcha{
+    display: inline-block;
+}
+
+.error{
+    font-size: 16px;
+    margin: 0px;
+    pading: 0xp;
+    color: red;
+}
+
+.f_btn{
+    width: 200px;
+    color: white;
+    background: grey;
+    height: 30px;
+    border: 2px solid white;
+    border-radius: 150px 0 150px 0;
+    font-family: 'Atma', cursive;
+}

@@ -1,0 +1,23 @@
+html{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    color: white;
+    font-family: 'Atma', cursive;
+}
+
+body{
+    vertical-align: central;
+    width: 90%;
+    margin: 0.5% auto;
+    background: black;
+    text-align: center;
+}
+
+button{
+    width: 50%;
+    height: 100px;
+    color: black;
+    font-size: 25px;
+}
+

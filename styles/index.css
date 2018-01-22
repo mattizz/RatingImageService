@@ -1,0 +1,64 @@
+html{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    color: white;
+    font-family: 'Atma', cursive;
+}
+
+body{
+    width: 90%;
+    margin: 0.5% auto;
+    background: black;
+}
+
+#content{
+    width: 60%;
+    margin: 1% auto;
+    text-align: center; 
+}
+
+img{
+    width: 100%;
+}
+
+#login_panel{
+    display: none;
+    color: white;
+}
+
+label{
+    text-align: left;
+    display: inline-block;
+    width: 100px;
+}
+
+input{
+    width: 150px;
+}
+
+#rate{
+    text-align: center;
+    color: red;
+    width: 100%;
+}
+
+.ratingButton:hover{
+   background-color: lightslategrey;
+   cursor: pointer;
+}
+
+a{
+    float: right;
+}
+
+.f_btn{
+    width: 150px;
+    color: white;
+    background: grey;
+    height: 30px;
+    border: 2px solid white;
+    border-radius: 150px 0 150px 0;
+    font-family: 'Atma', cursive;
+}
+
